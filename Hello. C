@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main() 
+{
+double a, b;
+printf("enter a:") ;) &
+scanf("%d", &a) ;
+printf("enter b:") ;
+scanf("%d", &b) ;
+printf("after swapping, a=%d", b) ;
+printf("after swapping, b=%d", a) ;
+return 0;
+}
